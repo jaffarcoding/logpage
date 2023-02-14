@@ -1,0 +1,15 @@
+.container{
+    height: 100vh;
+    background-color: aliceblue;
+}
+.articles{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top: 40%;
+    background-color: white;
+    width: 50%;
+    margin: auto;
+}
